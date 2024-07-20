@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Track word, character, sentence, and paragraph count for any text with this advanced free tool.
+
+To use this online word counter, please copy and paste your content into the box below, and then sit back and watch as Word Counter will run a real-time scan to perform operations.
+
 ## Available Scripts
 
 In the project directory, you can run:
