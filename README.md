@@ -6,6 +6,8 @@ Track word, character, sentence, and paragraph count for any text with this adva
 
 To use this online word counter, please copy and paste your content into the box below, and then sit back and watch as Word Counter will run a real-time scan to perform operations.
 
+![snapshot](https://github.com/user-attachments/assets/d644ab95-8c06-4122-a288-0c41e331df91)
+
 ## Available Scripts
 
 In the project directory, you can run:
